@@ -3,10 +3,10 @@ from tobrot.sample_config import Config
 #read readme too before filling these stuffs
 
 class Config(Config):
-    TG_BOT_TOKEN= "10your2910:AAE-IeBloaZ-your-hmhQXqLQ" #imp
-    APP_ID = 11your39l3 #imp
-    API_HASH = "7e4d0fb30703f1746b65310c62a41807" #imp
-    AUTH_CHANNEL = [-100138716715, your_id] #imp replace your_id with your id from telegram or delete
+    TG_BOT_TOKEN= "1602591136:AAHvluVntjW1aSCclIFWhyG51JKVzz0rRGk" #imp
+    APP_ID = 5540967 #imp
+    API_HASH = "eedf0196b0533f361b51b5b7082358e9" #imp
+    AUTH_CHANNEL = [-100138716715, -1001563645757] #imp replace your_id with your id from telegram or delete
     INDEX_LINK = "https://torrentleech.torrentleech-gdrive.workers.dev
     GLEECH_COMMAND = "gleech@TorrentLeech_Gdrivebot"
     YTDL_COMMAND = 'ytdl@TorrentLeech_Gdrivebot'
